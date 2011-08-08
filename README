@@ -1,6 +1,6 @@
 Sample NH code which shows how to extend the domain model.
 
-## Instructions
+## Instructions ##
 
 1. Create two databases "Test" and "ExtendedTest"
 2. Run scripts "NhibernateTest.sql" and "ExtendedNHibernateTest.sql" respectively on these databases
